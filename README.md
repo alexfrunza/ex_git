@@ -1,20 +1,20 @@
-Bine ati venit la training-ul pe departamentul IT!
+Bine ați venit la training-ul departamentului IT!
 
-### Exercitii
+### Exerciții
 
-1. Cloneaza repository-ul pe local
+1. Clonează repository-ul local.
 
-2. Creeaza un branch cu denumirea `<pseudonim>/feature-v1` si uploadeaza-l pe github
-    - HINT: daca te numesti Alexandru Frunza, ai putea sa creezi un branch cu numele `afrunza/feature-v1`
+2. Creează un branch cu denumirea `<pseudonim>/feature-v1` și urcă-l pe GitHub.
+    - Hint: dacă te numești Alexandru Frunză, ai putea crea un branch cu numele `afrunza/feature-v1`.
 
-3. Creeaza un fisier cu numele tau, scrie cel putin 2 linii in fisier si urca noile schimbarile pe github
+3. Creează un fișier cu numele tău, scrie cel puțin două linii în fișier și urcă modificările pe GitHub.
 
-4. Creeaza un nou branch cu denumirea `<pseudonim>/feature-v2`, modifica a doua linie din fisierul propriu si urca noile schimbari pe github
+4. Creează un nou branch cu denumirea `<pseudonim>/feature-v2`, modifică a doua linie din fișierul tău și urcă schimbările pe GitHub.
 
-5. Revina la branch-ul cu denumirea `<pseudonim>/feature-v1` si modifica a doua linie din fisierul propriu in mod diferit ca la pasul `4` (pentru a genera un conflict intr-un pas urmator)
+5. Revino la branch-ul `<pseudonim>/feature-v1` și modifică a doua linie din fișierul tău în mod diferit față de pasul 4 (pentru a genera un conflict într-un pas următor).
 
-6. Uneste schimbarile din branch-ul `<pseudonim>/feature-v2` in branch-ul `<pseudonim>/feature-v1` (pastreaza ambele schimbari, pe linii diferite), dupa care urca noile schimbari pe github
+6. Unește schimbările din branch-ul `<pseudonim>/feature-v2` în branch-ul `<pseudonim>/feature-v1` (păstrează ambele modificări, pe linii diferite), apoi urcă noile schimbări pe GitHub.
 
-7. Asteapta sa completeze toti colegii primii 6 pasi
+7. Așteaptă ca toți colegii să finalizeze primii 6 pași.
 
-8. Uneste schimbarile din branch-ul tau cu schimbarile din branch-ul unui alt coleg folosind feature-ul de PRs de pe github
+8. Unește schimbările din branch-ul tău cu cele din branch-ul unui coleg folosind funcționalitatea de Pull Request de pe GitHub.
