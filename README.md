@@ -13,7 +13,7 @@ Bine ati venit la training-ul pe departamentul IT!
 
 5. Revina la branch-ul cu denumirea `<pseudonim>/feature-v1` si modifica a doua linie din fisierul propriu in mod diferit ca la pasul `4` (pentru a genera un conflict intr-un pas urmator)
 
-6. Uneste schimbarile din branch-ul `<pseudonim>/feature-v2` in branch-ul `<pseudonim>/feature-v1`, dupa care urca noile schimbari pe github
+6. Uneste schimbarile din branch-ul `<pseudonim>/feature-v2` in branch-ul `<pseudonim>/feature-v1` (pastreaza ambele schimbari, pe linii diferite), dupa care urca noile schimbari pe github
 
 7. Asteapta sa completeze toti colegii primii 6 pasi
 
